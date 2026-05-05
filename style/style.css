@@ -1,9 +1,11 @@
+@import url(./nav.css);
+@import url(./main.css);
+@import url(./footer.css);
+
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
-@import url(./style/nav.css);
-@import url(./style/main.css);
-@import url(./style/footer.css);
